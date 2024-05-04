@@ -21,6 +21,7 @@ h3 {
 
 .calc {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   margin: 2rem;
