@@ -5,7 +5,7 @@
   "author": "Daylen Mackey",
   "description": "",
   "type": "module",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "keywords": [
     "chrome-extension",
     "react",
